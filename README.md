@@ -20,7 +20,8 @@ For example, the designation 'B01-4-8' means - shelve is 'B01', the device numbe
 
 Switching between channels and SET and REAL tabs is rather slow (about 300-400 milliseconds) thus the default delay value is set to 500 milliseconds.
 
-Also, each device can operate at 2 set temperatures (usually room and high)
+Also, each device can operate at 2 set temperatures (usually room and high).
+
 There is also a limited ability to switch temperatures programmatically.
 
 
