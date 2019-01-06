@@ -16,7 +16,7 @@ For example, the designation 'B01-4' means - shelve is 'B01', the device number 
 
 Each device has 8 channels for polling and 2 tabs with SET and REAL parameters.
 
-For example, the designation 'B01-4' means - shelve is 'B01', the device number is 4 and channel number is 8.
+For example, the designation 'B01-4-8' means - shelve is 'B01', the device number is 4 and channel number is 8.
 
 Switching between channels and SET and REAL tabs is rather slow (about 300-400 milliseconds) thus the default delay value is set to 500 milliseconds.
 
